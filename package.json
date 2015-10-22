@@ -1,0 +1,13 @@
+{
+  "name": "sqs-queue-poller",
+  "dependencies": {
+    "aws-sdk": "^2.2.10",
+    "babel": "^5.8.23",
+    "co": "^4.6.0",
+    "es6-promisify": "^3.0.0"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= 4"
+  }
+}
