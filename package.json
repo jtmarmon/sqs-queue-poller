@@ -1,5 +1,6 @@
 {
   "name": "sqs-queue-poller",
+  "version": "0.0.0",
   "dependencies": {
     "aws-sdk": "^2.2.10",
     "babel": "^5.8.23",
